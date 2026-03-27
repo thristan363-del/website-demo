@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12a23145.css",
+    "main.js": "/static/js/main.c49ea275.js",
+    "static/js/453.6e4f956a.chunk.js": "/static/js/453.6e4f956a.chunk.js",
+    "static/media/pfp.jpg": "/static/media/pfp.6194a5246cfd0de48d18.jpg",
+    "static/media/telephone-handle-silhouette.png": "/static/media/telephone-handle-silhouette.ddf68043e6743fbc6a31.png",
+    "index.html": "/index.html",
+    "main.12a23145.css.map": "/static/css/main.12a23145.css.map",
+    "main.c49ea275.js.map": "/static/js/main.c49ea275.js.map",
+    "453.6e4f956a.chunk.js.map": "/static/js/453.6e4f956a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12a23145.css",
+    "static/js/main.c49ea275.js"
+  ]
+}
